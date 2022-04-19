@@ -1,0 +1,2 @@
+# Cadastro-de-Contatos-CRUD
+Um CRUD (Create, Read, Update, Delete) (Criar, Ler, Atualizar, Deletar) Back-end no .NET Core 5 MVC (Model (modelo) View (visão) e Controller (Controle), com um banco de dados SQL Server, de um cadastro de contatos com um front-end básico usando o HTML e CSS do .NETFramework e alguns recursos do Bootstrap Docs &amp; Bootstrap Alert e do Jquery DataBases Tables para paginação e busca de contatos específicos. Link do Tutorial: https://www.youtube.com/watch?v=JtjMW5TWV5Q
